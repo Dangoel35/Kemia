@@ -1,0 +1,16 @@
+C:\Users\nagyd\source\repos\kemia\kemia\bin\Debug\net8.0-windows\kemia.exe
+C:\Users\nagyd\source\repos\kemia\kemia\bin\Debug\net8.0-windows\kemia.deps.json
+C:\Users\nagyd\source\repos\kemia\kemia\bin\Debug\net8.0-windows\kemia.runtimeconfig.json
+C:\Users\nagyd\source\repos\kemia\kemia\bin\Debug\net8.0-windows\kemia.dll
+C:\Users\nagyd\source\repos\kemia\kemia\bin\Debug\net8.0-windows\kemia.pdb
+C:\Users\nagyd\source\repos\kemia\kemia\obj\Debug\net8.0-windows\kemia.Form1.resources
+C:\Users\nagyd\source\repos\kemia\kemia\obj\Debug\net8.0-windows\kemia.csproj.GenerateResource.cache
+C:\Users\nagyd\source\repos\kemia\kemia\obj\Debug\net8.0-windows\kemia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nagyd\source\repos\kemia\kemia\obj\Debug\net8.0-windows\kemia.AssemblyInfoInputs.cache
+C:\Users\nagyd\source\repos\kemia\kemia\obj\Debug\net8.0-windows\kemia.AssemblyInfo.cs
+C:\Users\nagyd\source\repos\kemia\kemia\obj\Debug\net8.0-windows\kemia.csproj.CoreCompileInputs.cache
+C:\Users\nagyd\source\repos\kemia\kemia\obj\Debug\net8.0-windows\kemia.dll
+C:\Users\nagyd\source\repos\kemia\kemia\obj\Debug\net8.0-windows\refint\kemia.dll
+C:\Users\nagyd\source\repos\kemia\kemia\obj\Debug\net8.0-windows\kemia.pdb
+C:\Users\nagyd\source\repos\kemia\kemia\obj\Debug\net8.0-windows\kemia.genruntimeconfig.cache
+C:\Users\nagyd\source\repos\kemia\kemia\obj\Debug\net8.0-windows\ref\kemia.dll
